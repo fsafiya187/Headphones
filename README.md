@@ -21,7 +21,7 @@ Built with **HTML**, **CSS**, and **JavaScript**, it focuses on **visual appeal*
 
 ## 🖼 Demo  
 
-👉 **Live Demo:** [Click Here](#)  
+👉 **Live Demo:** [Click Here](https://fsafiya187.github.io/Headphones/)  
 
 ---
 
